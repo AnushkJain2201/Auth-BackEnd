@@ -1,0 +1,3 @@
+npm i express cors mongoose mongodb-memory-server multer nodemon morgan
+
+im package.json write "type": "module" "start": "nodemon server.js"
